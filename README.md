@@ -1,16 +1,27 @@
 ## Hi there 👋
 
 <!--
-**eustefany2/eustefany2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eustefany2/eustefany2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+# 🎬 Olá, eu sou [Seu Nome]!
 
-Here are some ideas to get you started:
+## Sobre mim
+💕 Apaixonado(a) por filmes de comédia romântica, onde o amor sempre encontra um jeito de fazer a gente rir e se emocionar.  
+😂 Adoro aquela mistura perfeita de risadas, encontros desastrosos e finais felizes.  
+🍿 Sempre pronto(a) para maratonar e discutir meus filmes favoritos do gênero!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎥 Filmes favoritos de comédia romântica
+- **10 Coisas que Eu Odeio em Você**  
+- **Diário de uma paixão**  
+-**As patricinhas de beverlihills**  
+- **Simplesmente Acontece**  
+- **Amor a Toda Prova**
+
+---
+
+## 🍿 Atividades & Hobbies
+- Maratonar filmes com pipoca e amigos  
+- Escrever resenhas e listas de recomendações  
+- Discutir teorias e momentos engraçados do gênero  
+- Assistir a clássicos e lançamentos românticos
