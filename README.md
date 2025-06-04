@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**eustefany2/eustefany2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-# 🎬 Olá, eu sou [Seu Nome]!
+# 🎬 Olá, eu sou stefany!
 
 ## Sobre mim
 💕 Apaixonado(a) por filmes de comédia romântica, onde o amor sempre encontra um jeito de fazer a gente rir e se emocionar.  
